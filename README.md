@@ -1,6 +1,6 @@
 # calculator2
 
-![ss](https://github.com/GuUn-pRoJecTs/calculator2Flutter/raw/master/Screenshot_1577274069.png)
+![ss](Screenshot_1577274069.png)
 
 ## Getting Started
 
